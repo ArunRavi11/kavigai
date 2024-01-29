@@ -1,0 +1,1195 @@
+event_id,type,title,details,date,speaker,description
+4.32199E+11,PODCAST,Product Owners in Data Science,Not getting stuck at the POC Stage,21-10-2022,Anna Hannemann,"Outline:
+
+Product managers vs Product owners
+Working with recommender systems
+Launching a successful product
+"
+4.14414E+11,WEBINAR,Machine Learning Workflows in Production,The journey from a notebook experiment to a production pipeline,18-10-2022,Krzysztof Szafanek,"Outline:
+
+The road from an idea to the production project powered by machine learning is not always an easy one. One part of that journey is scaling ML experiments to a production pipeline.
+
+In this webinar Krzysztof Szafranek will explain challenges specific to ML experimentation and productionization, then present how they can be tackled at scale, using Zalando's ML platform as an example."
+4.29479E+11,PODCAST,Building Data Science Practice,Leading teams through different stages of maturity in small and large organizations,14-10-2022,Andrey Shtylenko,"Outline:
+
+What is Data Science practice
+Steps for building it
+Different stages of data science practice maturity
+Right time to hire juniors and interns"
+4.13901E+11,PODCAST,Large-Scale Entity Resolution,Building an open source startup for data integration,12-10-2022,Sonal Goyal,"Outline:
+
+Entity resolution and duplicate detection
+Internals of Zingg - an open-source tool for identity and entity resolution
+Building an open-source startup"
+4.14459E+11,WEBINAR,Data Monetization with Machine Learning,Measuring the monetary impact of ML,11-10-2022,Tomek Jamiński,"We all got used to the truism that it's worth investing in Machine Learning solutions. But what about the ROI? Do we track it or measure its monetary impact? Join me to see how at OLX Groups we are leveraging Machine Learning and Data to deliver value to our customers and how we monetize it.
+
+Outline:
+
+The crucial role of Customer Centricity - is how to think back from the customers and their problems.
+Essence of ML value creation - how to turn the customer problem into an ML opportunity.
+Cross-functional ecosystem - how to embed AI/ML in the organization to ensure success.
+Practical examples - what we have deployed and what we have learned from it.
+Key Takeaways."
+4.09728E+11,PODCAST,From Data Science to DataOps,The learning process and the minimal operating skills for DataOps,07-10-2022,Tomasz Hinc,Outline: Why do we need DataOps? Going from science to ops The learning process Minimal operating skills for DataOps
+4.14474E+11,PODCAST,Data Science Career Development,How managers support career development,30-09-2022,Katie Bauer,"Outline:
+
+What does it mean for someone to be junior vs. senior?
+What is different about career growth for junior vs. senior data scientists?
+How much responsibility does a manager have for growing someone’s career?
+What approaches do you recommend for managers to get better at developing talent?"
+3.77157E+11,WEBINAR,A Practical Guide to A/B Testing in MLOps,How to set up a containerized microservice architecture to run A/B tests,27-09-2022,Sadik Bakiu,"Outline:
+
+What is A/B testing
+How does A/B testing apply in Machine Learning
+Implementing A/B testing with Kubernetes and seldon-core"
+4.22218E+11,PODCAST,From Testing Phones to Managing NLP Projects,Studying machine learning and looking for a job,23-09-2022,Alvaro Navas Peire,"Outline:
+
+Quality assurance in the cellphone industry
+Learning data science and machine learning
+Looking for a job
+Managing NLP and ML projects"
+4.1261E+11,WORKSHOP,Effective Machine Learning Inside Your Database,Setting up an integrated ML system at the data layer,21-09-2022,Patricio Cerda Mardini (MindsDB),"As an ML engineer, you want to live in a world where you can manage exploration, training, versioning, and inference from one control plane. In-database ML has the potential to make that real.
+
+In this hands-on workshop, we’ll go through all the steps from data preparation, tuning and deployment of custom models with the ML frameworks of your choice through SQL and declarative ML.
+
+We will use MindsDB, an open-source in-database ML platform, that allows developers and data professionals to use the power of AI to ask predictive questions of their data and receive accurate answers from it - in a simple way. Customer behaviour, revenue maximization, production optimization, churn or demand predictions are just a few mission-critical use cases you can easily implement with MindsDB right where your data lives.
+
+We’ll cover the following topics:
+
+Building models quickly with SQL and AutoML
+Inferencing your models as database tables using SQL queries
+State-of-the-art methods to solve complex time-series problems with ML
+Finding your best performing model ensemble with declarative ML
+Deploying (via MLFlow and Ray) and inferencing custom ML models as DB tables
+Bring your own ML framework to the data layer
+And more
+
+By the end of this workshop, you’ll be able to set up an in-database ML pipeline yourself."
+3.96423E+11,WEBINAR,Responsible and Explainable AI,Implementing responsible AI while still being profitable,16-09-2022,Supreet Kaur,"Outline:
+
+What’s responsible AI?
+Implementing responsible AI while still being profitable
+Importance of responsible AI
+What are the responsibilities at Data Level so that we can implement responsible AI
+What’s common between responsible and explainable AI"
+4.11765E+11,WEBINAR,Building the Modern Geospatial Data Stack,From plotting maps in a notebook to maintaining a geospatial data infrastructure,13-09-2022,Ramiro Aznar,"Outline:
+
+The challenges of working with satellite data
+How to build a geospatial data infrastructure from scratch
+Geospatial data modeling and metrics."
+3.48554E+11,WORKSHOP,Data Incident Management with Soda and dbt,Building a solid data pipeline: from transformation to collaboration on data issues ,06-09-2022,Bastien Boutonnet,"In this hands-on workshop, we’ll build an end-to-end data pipeline with dbt and Soda.
+
+We’ll cover the following steps:
+
+Building a transformation pipeline with dbt
+Add data quality checks with Soda
+Manage data incidents with Soda+dbt integration
+By the end of this workshop, you’ll be able to integrate quality checks and incident management to your data transformation pipelines."
+3.687E+11,WEBINAR,Probabilistic Demand Forecasting at Scale,Scaling demand forecasting under uncertainty to millions of time series ,30-08-2022,Hagop Dippel,"Outline:
+
+Introduction to demand forecasting in the context of e-commerce logistics.
+Review of main probabilistic forecasting techniques.
+How can probabilistic demand forecasting enable stochastic downstream applications (human resource planning, inventory optimisation)
+Scalable training and inference system which can handle thousands/millions of time series with a cold-start problem.
+"
+4.01118E+11,PODCAST,Leading Data Research,Solving challenges in science and data as a professor,29-08-2022,David Bader,"Outline:
+
+The role of a professor
+Teaching vs research
+Research in graph analytics
+Cooperating with industry partners"
+4.03883E+11,WEBINAR,Feature Selection in Machine Learning with Python,"Build simpler, faster, and more reliable machine learning models",23-08-2022,Soledad Galli,"Outline:
+
+Feature selection is the process of selecting a subset of features from the total variables in a data set to train machine learning algorithms. The aim of any feature selection algorithm is to create classifiers or regression models that run faster and whose outputs are easier to understand by their users.
+
+In this talk, I will discuss some of the most widely used feature selection methods among filter, wrapper, and embedded methods for feature selection. Then, I will mention additional methods that are faster or more scalable. And finally, I will show how to implement feature selection in Python using the open source libraries Scikit-learn, MLXtend, and Feature-engine."
+3.94163E+11,PODCAST,Dataset Creation and Curation,Process and tools for cost-effective dataset creation ,19-08-2022, Christiaan Swart,"Outline:
+
+Different ways to collect data
+Organizing the process for data collection
+Active and distant learning
+Finding issues in data"
+3.74113E+11,PODCAST,Data Mesh 101,What is Data Mesh and getting started with it,18-08-2022,Zhamak Dehghani,"Outline:
+
+Principles of Data Mesh
+Domain ownership principle
+Data as a product principle
+Self-serve data platforms
+Do we always need Data Mesh
+"
+3.94157E+11,WORKSHOP,Three Stages of Real-Time Data Monitoring,A hands-on workshop to implement validation and monitoring for your data in motion ,16-08-2022,Sage Elliott,"In this hands-on workshop, we’ll cover how to implement your own real-time data validation and monitoring system from start to finish.
+
+Data validation and monitoring are foundational steps to building reliable pipelines, trustworthy data, and responsible ML models.
+
+We’ll tackle the 3 stages of data monitoring:
+
+Reactive: Manual analysis and visualization techniques
+Proactive: Implement Data Quality as part of your ML pipelines
+Real-time: End-to-end monitoring as data moves through your system
+We’ll also discuss important data & ML monitoring concepts:
+
+Data monitoring best practices
+How to monitor for data quality & distribution drift
+Detecting bias in data and model predictions
+By the end of this workshop, you’ll be able to implement data and AI observability into your own pipelines (Kafka, Airflow, Flyte, etc) and ML applications to catch deviations and biases in data or model behavior."
+3.9696E+11,PODCAST,Growing Data Engineering Team in a Scale-Up,Building a data infrastructure team in fast-paced environment,12-08-2022,Mehdi OUAZZA,"Outline:
+
+What’s a scale-up?
+Work of a data engineer at a start-up vs scale-up vs slow-growth company
+Main challenges of working in a fast changing environment
+Why join a scale-up?"
+3.94172E+11,PODCAST,Lessons Learned About Data & AI at Enterprises,Explaining ML to managers and subject matter experts,05-08-2022,Alexander Hendorf,"Outline:
+
+Explain the working environment: enterprises, how organised and the challenges we face there
+Main challenges of explaining ML to managers and departments
+Explaining complex things with simple language
+Culture and passion for innovations
+The best recipe for AI & ML in Enterprises"
+3.31699E+11,WEBINAR,Feature Engineering for Time Series Forecasting,"Tips, tricks, and pitfalls to create features from time-series data to build machine learning models for forecasting ",02-08-2022,Kishan Manani,"In this talk we’ll discuss all the tips, tricks, and pitfalls in creating features from time series data to build machine learning models for forecasting.
+
+We will cover:
+
+How to use traditional machine learning for forecasting, we need to convert time series data into tabular data containing useful features and a target variable.
+The issues that arise when creating features for forecasting (e.g., look-ahead bias, distributional differences over time, one step vs multistep forecasting).
+Feature engineering techniques to build good features for forecasting.
+"
+3.91505E+11,PODCAST,MLOps Architect,Evangelising best MLOps Practices,29-07-2022,Danny Leybzon,"Outline:
+
+What do MLOps architects do
+Becoming an MLOps architect
+Main challenges"
+3.74115E+11,PODCAST,Decoding Data Science Job Descriptions,Learning about a company before applying,30-06-2022,Tereza Iofciu,"Outline:
+
+Mismatch between expectations and reality
+What can we learn from reading a job description
+Organization data maturity level
+Culture fit checklist"
+3.71939E+11,WEBINAR,Speeding up Python Code 500x,Optimizing a Python library for performance and scale,28-06-2022,Jamie Broomall,"Outline:
+
+Why focus on performance? numbers, comparison
+How did we speed things up? selective computation
+Splitting data into min-batches by type
+Processing batches of data in datasketches
+Putting it all together: executing in pyspark on a Databricks cluster"
+3.70224E+11,PODCAST,Data Science for Social Impact,Using data to address social issues,24-06-2022,Christine Cepelak,"Outline:
+
+Social impact and public policy
+Data science for social impact
+What kind of organizations need this
+"
+3.70221E+11,PODCAST,Hiring Data Science Talent,Hiring and building data teams,23-06-2022,Olga Ivina,"Outline:
+
+Qualities needed for a team
+Seniority levels. What’s after senior?
+Making job descriptions more attractive to female candidates"
+3.70204E+11,PODCAST,From Open-Source Maintainer to Founder,Working on open-source full-time,22-06-2022,Will McGugan,"Outline:
+
+Coming up with project ideas
+Freelancing and working on open-source
+Starting a company to work on open-source
+Earning with open-source"
+3.58231E+11,WORKSHOP,Best MLOps Practices for Building End-to-End ML Projects,"Train a computer vision model with the Iterative ecosystem of tools (TPI, DVC, CML, and Studio)",21-06-2022,Alex Kim,"About this event
+In this workshop, we’ll build an end-to-end Computer Vision system.
+
+We’ll explore an industrial use case of training an image segmentation model for the purposes of defect detection on a manufacturing conveyor belt.
+
+The dataset and the use case are described in this paper.
+
+You’ll learn:
+
+How to quickly configure a remote development environment with TPI: write code locally while executing on a remote machine with a GPU
+How to version large datasets and models with DVC
+When it’s the right time to move from Jupyter notebooks to ML pipelines and how to do that with DVC
+Why it’s beneficial to integrate CI/CD workflows into your model development process and how to do that with CML
+How to manage experiments and collaborate on ML projects using Iterative Studio
+Target Audience:
+
+Technical folks (e.g. Software Engineers, ML Engineers, Data Scientists) who are familiar with general Machine Learning concepts, Python programming.
+
+Knowledge of CI/CD processes and Cloud infrastructure will be helpful.
+
+Prerequisites:
+
+AWS Account: https://mlbookcamp.com/article/aws
+Familiarity with AWS S3 and AWS EC2
+Familiarity with GitHub Actions will be helpful: https://github.com/features/actions"
+3.65013E+11,PODCAST,Designing a Data Science Organization,To centralize or decentralize?,17-06-2022,Lisa Cohen,"Outline:
+
+Centralized data science team vs embedded data scientists
+Pros and cons of the centralized team
+Pros and cons of the decentralized team"
+3.59129E+11,WEBINAR,Building the End to end Roadmap for your Data,"To have, hold and harness: Building the end to end roadmap for your data",14-06-2022,Mary Jane Dykeman,"Outline:
+
+Compliance with privacy and security requirements is only the entry point.
+Find and document the data you hold.
+Data quality.
+Identify the use cases that would benefit from ML/AI.
+Decide whether to build it in-house or crowdsource.
+"
+3.58238E+11,PODCAST,Developer Advocacy Engineer for Open-Source,Engineering and development advocacy,09-06-2022,Merve Noyan,"Outline:
+
+Difference between development advocacy and development advocacy engineering
+Working on open-source projects
+Must-have skills for developer advocacy engineers"
+3.32507E+11,PODCAST,Data Scientists at Work,Unrealistic expectations from Data Scientists,09-06-2022,Mısra Turp,"Outline:
+
+Work product - What do DS produce?
+Unrealistic expectations of DS, Do we need to know everything?
+Imposter syndrome"
+3.41484E+11,PODCAST,Freelancing and Consulting with Data Engineering,Becoming a freelancer and finding clients,03-06-2022,Adrian Brudaru,"Outline:
+
+Becoming a freelancer in data engineering
+Networking and finding clients
+Freelancing vs consulting
+Selecting the rate
+"
+3.10271E+11,WEBINAR,Getting a Data Engineering Job,Find and land a job in data engineering ,24-05-2022,Jeff Katz,"Outline:
+
+1. Data engineering and related roles
+
+Analytics Engineer
+Data Engineer
+Backend Engineer
+2. Networking with Data Engineers
+
+3. Data Engineering Interview Process
+
+Cultural Screening
+Technical Screening
+Take homes"
+3.34229E+11,PODCAST,Using Data for Asteroid Mining,Looking for minerals in asteroids and other applications of ML in astronomy,20-05-2022,Daynan Crull,"Outline:
+
+Applications of machine learning and data science for astronomy
+Using data for finding asteroids to drill and mine
+Data engineering and data science for astronomy data"
+3.3509E+11,PODCAST,Machine Learning in Marketing,Solving common marketing problems with data science,13-05-2022,Juan Orduz,"Outline:
+
+Common problems: user acquisition and retention
+Measuring success
+Getting started with ML in marketing
+Bayesian methods for solving marketing problems"
+3.18625E+11,WEBINAR,Recommender Systems for Digital Advertising,Digital-Out-Of-Home (DOOH) advertising and evaluation of business impact,10-05-2022,Nataliya Portman,"utline:
+
+1. What is DOOH network and why financial institutions use it?
+
+2. Probabilistic framework for recommendation of financial ads.
+
+3. A combined, survey-based and A/B testing, approach for evaluation of ad performance.
+
+Clustering method for splitting financial institution sites into tests and controls,
+Survey-based component (data collection strategy) and business metrics for tracking ad performance."
+3.31653E+11,PODCAST,From Academia to Data Analytics and Engineering,Digital-Out-Of-Home (DOOH) advertising and evaluation of business impact,06-05-2022,Gloria Quiceno,"Outline:
+
+Looking for a job after a bootcamp
+Getting into data engineering instead of data science"
+2.936E+11,WEBINAR,Mitigating Bias with the XAI Toolbox,How to minimize bias in machine learning models?,03-05-2022,Serg Masis,"When trained on sufficiently large datasets, supervised learning can achieve impressive predictive performance. However, despite these outcomes, it can be distributed unevenly. For instance, a credit default model could favor men over women. In this session, we will learn how to measure and mitigate bias on three levels.
+
+"
+3.26975E+11,PODCAST,Teaching Data Engineers,Creating courses for data engineer,29-04-2022,Jeff Katz,"Outline:
+
+Teaching at a bootcamp
+From teaching data scientists to teaching data engineers
+Creating a great data engineering curriculum"
+3.22966E+11,WORKSHOP,Data Quality and Reliability with Soda Core,Building a data quality and reliability system,26-04-2022,Vijay Kiran,"In this hands-on workshop, we’ll learn how to use Soda Core, an open-source project for testing, monitoring, and validating data quality and SodaCL, a new open-source Domain Specific Language for data reliability engineering.
+
+You’ll get hands-on guidance to:
+
+Install Soda and set up the environment
+Use SodaCL to define data quality checks
+Integrate Soda Core to an Airflow data pipeline
+We’ll cover simple checks (row count, number of null values, number of duplicates), more complex ones (schema changes). We’ll also see how to define our own checks in SQL.
+
+By the end of this workshop, you’ll be able to add data quality and reliability monitoring to your data system.
+
+Setup / prerequisites:
+
+Terminal
+Docker — we’ll need it for running the database (postgres)
+A code editor
+Python 3.8+
+To prepare the environment, use these instructions: https://github.com/sodadata/datatalks-workshop.git"
+3.22512E+11,PODCAST,From Roasting Coffee to Backend Development,Changing career and leading a community,22-04-2022,Jessica Greene,"Outline:
+
+Changing career, internships and summer of code scholarships
+Community organisation
+Public speaking
+Working for a mission led company
+"
+2.93904E+11,WORKSHOP,Building Machine Learning Pipelines with Kedro,Kedro crash course,19-04-2022,Merel Theisen,"In this hands-on workshop, we’ll go through a Kedro tutorial. We’ll cover the following steps:
+
+How to build machine learning pipelines in Kedro
+How to run pipelines in Kedro
+How to visualise your pipelines
+By the end of this workshop, you’ll be able to use Kedro on your machine learning projects."
+3.15102E+11,PODCAST,Recruiting Data Engineers,Confessions of a data engineering recruiter,14-04-2022,Nicolas Rassam,"Outline:
+
+Main challenges of hiring data engineers
+Initial interview with the recruiter
+Expectations for junior vs middle vs senior data engineers
+Getting hired without prior data engineering experience"
+3.05669E+11,WORKSHOP,Federated Learning to the Rescue,Machine learning for data that can not be shared,12-04-2022,"Orlando Hohmeier, Jan Schlicht","Outline:
+
+In this session, we'll explore:
+
+How federated learning works
+How it solves the data challenge
+And see it in action.
+"
+3.10931E+11,PODCAST,Storytime for DataOps,"DataKitchen: The What, Why, and How of DataOps",08-04-2022,Christopher Bergh,"Outline:
+
+Organisations are fast understanding that to be data fluent, strong data pipelines are essential. DataOps is becoming increasingly critical to assist analytic and data teams in improving quality and reducing the cycle time of data analytics. However, before that dream can be achieved, it is crucial to understand the what, why, and how of DataOps.
+Chris Bergh, Founder and CEO of DataKitchen, begins by introducing DataOps and the important distinctions from DevOps. He also explains how businesses should build a DataOps team and what kind of principles DataOps leadership should be spearheading.
+Finally, Chris explains the preparation needed from a cultural change perspective and also offers insight into why businesses might not have embraced it and why they should."
+3.0843E+11,WEBINAR,Analytics Use Cases Across Non-Automated Operations,Leveraging analytics in environments where data creation is not automatic,05-04-2022,Delina Ivanova,"Outline:
+
+Building the case for data collection and management
+Using experimentation to collect data and establish an operational baseline
+Building ongoing data collection practices and mechanisms
+Analytical and automation use cases once data is collected"
+3.0916E+11,PODCAST,Machine Learning and Personalization in Healthcare,Nudging users towards better behaviour ,01-04-2022,Stefan Gudmundsson,"Outline:
+
+ML in healthcare
+Personalisation in health care apps
+Main challenges"
+2.93882E+11,WORKSHOP,Hands-On Data Monitoring with whylogs,Setting up a data observability system with open-source tools,29-03-2022,Danny Leybzon,"In this hands-on workshop, we’ll learn how to set up a system for monitoring your data pipelines, ensuring data quality and detecting changes in your data. Without data monitoring, it’s impossible to guarantee to your stakeholders that the data that they are using for their analytics and machine learning use cases is trustworthy. By setting up a data observability system, you’ll be able to get visibility into the health of your data pipelines, thus building your customers’ trust in your work.
+
+In this workshop, we’ll cover the following:
+
+Introduction to data observability and monitoring
+whylogs — the open source standard for data logging
+How to monitor batch Python or Spark data pipelines with whylogs
+How to monitor Kafka streaming pipelines with whylogs
+By the end of this workshop, you’ll be able to set up such a system yourself.
+
+For the workshop, you'll need:
+
+Account in Deepnote(optional but helpful)
+Account in Confluent cloud (required for the streaming part - instructions)
+Code: https://github.com/DataTalksClub/whylogs-workshop
+"
+3.01232E+11,PODCAST,Innovation and Design for Machine Learning,When design thinking meets data,24-03-2022,Liesbeth Dingemans,"Outline:
+
+Design and design thinking
+Design thinking for machine learning projects
+Innovation and machine learning
+Ideal data team"
+2.93562E+11,WEBINAR,Modern Data Warehouse,"Design, Build, Deploy and Monitor DWH solution",22-03-2022,Rahul Jain,"Outline:
+
+Blueprint of Modern Data Warehouse architecture
+Build in phases
+Deployment model
+Monitor production workload
+"
+2.94973E+11,PODCAST,Hacking Your Data Career,Doing the opposite of what people tell you and other hacks,18-03-2022,Marijn Markus,"Outline:
+
+Do the opposite of what people tell you
+Pet projects
+Doing good with data"
+2.86185E+11,WEBINAR,Productionizing a Feature Store for Fraud Detection at Ubisoft,Data as code,15-03-2022,Jeanine Harb,"Ubisoft's e-commerce channels are attractive targets for fraudsters looking to acquire games and in-game products without necessarily paying for them. In order to detect fraud, we leverage machine learning models capable of flagging fraud patterns thanks to feature engineering. In this talk, we describe how we designed a Feature Store that defines fraud-related features as code, how it interfaces with training and inference environments, and the challenges we faced while putting it in production!"
+2.92194E+11,PODCAST,Visualising Machine Learning,Using visuals to learn and explain concepts in ML,11-03-2022,Meor Amer,"Outline:
+
+Using visuals to simplify complex concepts
+Coming up with visual ideas
+Tools for making visuals
+Writing a visuals-first book
+"
+2.89352E+11,PODCAST,From Math Teacher to Analytics Engineer,"Transitioning, networking, and building a portfolio",04-03-2022,Juan Pablo,"Outline:
+
+Moving from teaching math to doing analytics
+Building online presence
+Networking
+Interview preparation"
+2.73871E+11,PODCAST,From Data Science to Data Engineering,From training models to building data pipelines,03-03-2022,Ellen König,"Outline:
+
+The responsibilities of data scientists and data engineers
+Plan for the transition
+Learning data engineering for data scientists"
+2.414E+11,WEBINAR,The Unspoken Relationship - Product Managers and Data Scientists,Challenges of Data Scientists + Product Managers interactions,01-03-2022,Sivan Biham,"Everyone talks about the relationship between product managers and the development team, but did you ever hear anyone talk about the relationship between product managers and the data science team? Maybe it’s time to start!
+
+In this talk, Sivan will shed light on this unspoken subject, and explain the unique challenges of Data Scientists + Product Managers interactions. Drawing on her own experience as an algorithm researcher in a product-oriented startup, she will share insights from working in a cross-platform team that includes product managers, developers, and data scientists. This talk will help you build a better relationship between Data Scientists and Product Managers in your organization."
+2.74015E+11,WEBINAR,Helping People Get Jobs with Data,"Using Data Analytics, drive impact for Employers and Jobseekers",28-02-2022,Padma Chitturi,"Data changing the face of recruitment business.
+Business Impact driven by Enterprise Data Analytics teams.
+Data Platform in Enterprise Data Analytics team.
+Leveraging hybrid cloud environments for better results with optimal cost.
+Data Tools and Tech Stack.
+Integrated Data Observability for ETL pipelines.
+How are the different roles in Analytics teams collaborate on achieving common objectives !"
+2.68577E+11,PODCAST,Becoming a Data Engineering Manager,From data engineer to manager,18-02-2022,Rahul Jain,"Outline:
+
+Transitioning to the manager role and the main challenges
+Qualities of a great data team
+Upskilling people"
+2.30532E+11,WORKSHOP,Monitoring Model Performance with Crowdsourcing,Building a human in the loop system for ML observability,16-02-2022,Magdalena Konkiewicz,"In this hands-on workshop, we’ll go through all the stages of building a human-in-the-loop system that monitors the performance of a machine learning model.
+
+We’ll cover:
+
+Designing a system for monitoring model performance
+Sampling the model’s predictions and using crowdsourcing for evaluating whether these predictions are correct
+Visualizing the collected data
+Automatically retraining the model when performance degrades
+Using the collected data for retraining
+By the end of this workshop, you’ll be able to design a similar system for monitoring the quality of your own ML models.
+
+Important: Register an account in Toloka before the workshop: https://alexeygrigorev.notion.site/Registering-in-Toloka-bec507b358594c3f8a245c5bff12508a"
+2.63846E+11,PODCAST,A/B Testing,Growing product through experimentation,11-02-2022,Jakob Graff,"Outline:
+
+A/B testing
+Starting with A/B testing
+A/B testing culture
+"
+2.62947E+11,WEBINAR,Load Testing ML Microservices for Robustness and Scalability,Simulating load for ensuring robustness,08-02-2022,Emmanuel Raj,"MLOps workflow walk thru (to see where in MLOps does the load test make sense)
+Run a weather prediction micro service locally (on laptop) using docker + FastAPI
+Running Locust.io service (for load testing)
+Simulate users and test the micro service endpoint for robustness, scalability and performance
+Suggestions to make the load test work in the MLOps workflows"
+2.59062E+11,PODCAST,Machine Learning System Design Interview,Preparing for the ML design interview,04-02-2022,Valerii Babushkin,"Outline:
+
+ML system design vs “traditional” system design
+Interview case walk-through
+Preparing for ML system design interviews"
+2.5529E+11,PODCAST,Career Coaching,Helping bootcamp students get hired,28-01-2022,Lindsay McQuade,"Outline:
+
+Responsibilities of a career coach
+Most common problems of bootcamp students
+Dealing with impostor syndrome
+Job search tips"
+2.40818E+11,PODCAST,Product Management Essentials for Data Professionals,Learning to treat data as a product,21-01-2022,Greg Coquillo,"Outline:
+
+The role of a product manager
+Developing a product mindset
+Learning product manager for data scientists and other data professionals"
+2.38674E+11,WEBINAR,Software Testing for Machine Learning Pipelines,Make ML software more reliable,19-01-2022,Arseny Kravchenko,"A crash course on how to make ML software more reliable, including best practices on testing and other aspects of defensive programming. We will cover software testing essentials with a focus on machine learning and artificial intelligence use cases."
+2.40809E+11,PODCAST,Recruiting Data Professionals,Confessions of a data recruiter,14-01-2022,Alicja Notowska,"Outline:
+
+The day in a life of a recruiter
+CV screening
+Initial phone interview
+Salary negotiation"
+2.37808E+11,PODCAST,DataTalks.Club Behind the Scenes,How DataTalks.Club started and where it’s going,12-01-2022,"Eugene Yan, Alexey Grigorev","Outline:
+
+Alexey and his career
+DataTalks.Club and how it started
+DataTalks.Club - behind the scenes
+Machine Learning Bookcamp and Machine Learning Zoomcamp
+Questions from the community"
+2.33688E+11,WEBINAR,Fraud Detection in Financial Industry,Using machine learning for fraud detection,11-01-2022,Kate Ogochukwu Nwankwo,"Outline:
+
+Financial industry
+Uses of AI in the financial industry
+Fintechs and fraud challenges
+Fraud detection
+How machine learning is used to detect fraud in the financial industry"
+2.26594E+11,PODCAST,Becoming a Data Science Manager,Transitioning from senior to manager and dealing with new responsibilities,17-12-2021,Mariano Semelman,"Outline:
+
+A day of a data science manager
+Transitioning from a senior data scientist to a manager
+Dealing with new responsibilities
+Helping people grow"
+2.2659E+11,PODCAST,Leading NLP Teams,Are NLP teams are different and how to lead them,16-12-2021,Ivan Bilan,"Outline:
+
+NLP vs data vs regular software engineering teams
+Leading NLP teams
+MLOps for NLP"
+2.25514E+11,WEBINAR,AI in Fashion - Size & Fit,Determining the right size and fit for customers,14-12-2021,Nour Karessli,"Online fashion shopping has been increasingly attracting customers at an unprecedented rate, yet choosing the right size and fit remains a major challenge. The absence of sensory feedback leads to uncertainties in the buying decision and the hurdle of returning items that don't fit well. This causes frustration on the customer side and a large ecological and economical footprint on the business side. Recent research work on determining the right size and fit for customers is still in its infancy and remains very challenging. In this talk, we will navigate through the complex size & fit problem space and focus on how intelligent size and fit recommendation systems and machine learning solutions leverage different data sources to address this challenging problem."
+2.25514E+11,WEBINAR,AI-Powered Computer Vision Applications in Media Industry,Facial recognition and automatic caption generation for online newspapers,07-12-2021,Yulia Pavlova,"We start with a brief introduction of descriptive metadata and its role for discoverability of media content. We then investigate two human-centered AI applications.
+
+First, we will look at facial recognition and discuss how to process, augment, annotate and create bounding boxes around identified public figures/celebrities in images using platform microservices.
+
+Secondly, the audience will be introduced to automatic caption generation using customized sequence-to-sequence model. As an example, we will use sports images from English Premier League.
+
+Finally, we combine both approaches to generate descriptive metadata that replicates human-like style."
+2.18862E+11,PODCAST,Product Management for Machine Learning,The role and responsibilities of AI/ML product manager,03-12-2021,Geo Jolly,"Outline:
+
+What AI/ML product managers do
+AI/ML PM vs Data PM vs “Usual” PM
+The main challenges of the role
+From Data science to AI product management"
+2.14532E+11,WEBINAR,Hypothesis Testing: Bayesian or Frequentist?,Two ways of looking at the same coin ,01-12-2021,Andre Schumacher,"Outline:
+
+Brief intro the concepts of classical frequentist methods applied to deciding whether a coin is fair
+.. followed by an only slightly biased comparison of classical (frequentist) hypothesis testing and Bayesian methods
+The goal of the talk is to stay practical, while highlighting some of the often forgotten assumptions of either method
+"
+2.14527E+11,PODCAST,Moving from Academia to Industry,From doing research to leading data scientists,26-11-2021,CJ Jenkins,"Outline:
+
+Similarities and differences between research and industry
+Steps to make the transition
+The most useful skills"
+2.06843E+11,WEBINAR,Paradoxes in Data Science,"Cognitive paradoxes: Simpson's paradox, accuracy paradox and others",23-11-2021,Pier Paolo Ippolito,"Paradoxes are a class of phenomena that arise when, although starting from premises known as true, we derive some sort of logically unreasonable result. As Machine Learning models create knowledge from data, this makes them susceptible to possible cognitive paradoxes between training and testing. In this talk, Pier Paolo Ippolito will walk you through some of the main paradoxes associated with Data Science and how they can be identified.
+
+Outline:
+
+Simpson’s Paradox
+Accuracy Paradox
+Learnability-Godel Paradox
+The Law of Unintended Consequences"
+2.06836E+11,PODCAST,Advancing Big Data Analytics: Post-Doctoral Research,Moving the frontiers of analytics,19-11-2021,Eleni Tzirita Zacharatou,"Outline:
+
+Responsibilities of a postdoc
+Helping PhD students with research
+Teaching"
+1.93114E+11,WEBINAR,Notebooks in Production - Fun or not Fun?,Putting notebooks in production at Delivery Hero,16-11-2021,Nick Bilozerov,"Outline:
+
+Notebooks in production: the reasoning behind and results
+ML training with notebooks from local machine to live
+Improving DS efficiency with Jupyter Notebooks, Papermil and Airflow"
+2.06817E+11,PODCAST,Becoming a Data Product Manager,From design to product management,12-11-2021,Sara Menefee,"Outline:
+
+Responsibilities of a data PM
+Transitioning from design to product management
+Courses and other useful resources"
+1.69888E+11,WEBINAR,Back-of-the-Envelope Calculation For Machine Learning Projects,Confirming that our future ML project is worthwhile,10-11-2021,Larysa Visengeriyeva,"One of the best practices that we know from great engineers is the back-of-the-envelope calculation to estimate costs and resources. I believe that in Machine Learning Engineering, we all would benefit from such a “back-of-the-envelope calculation” skill to create a prototype of an ML Project. We need to confirm - as cheaply as possible - that our future ML project is worthwhile, that it will solve my business problem, and that costs and resources are feasible. In my talk, I suggest a design toolkit for ML projects to perform such rough prototyping by using three canvases: Machine Learning Canvas, Data Landscape Canvas, and MLOps Stack Canvas.
+
+"
+1.92414E+11,WEBINAR,Introduction to NLP for Industry Use,"NLP products: approaches, team, and tools",09-11-2021,Ivan Bilan,"NLP today
+Building NLP projects
+Managing NLP teams
+NLP tools"
+1.97818E+11,PODCAST,Data Science Manager vs Data Science Expert,Who do you need in your team?,05-11-2021,Barbara Sobkowiak,"Do you need an expert or a manager?
+Data science manager - core skills and responsibilities
+Data science expert - core skills and responsibilities"
+1.95275E+11,WEBINAR,Algorithmic Fairness,Identifying and mitigating bias in data,02-11-2021,ráinne McKnight,"Outline:
+
+What does it mean to be algorithmically fair?
+How is bias introduced into data products?
+Technical approaches for identifying & mitigating data bias"
+1.97251E+11,PODCAST,Ace Non-Technical Data Science Interviews,Behavioral and product sense interview rounds,28-10-2021,Nick Singh,"Outline:
+
+Structure of the data science interview
+Behavioral interviews
+Product sense rounds
+"
+1.93263E+11,WEBINAR,The War of Gradient Boosted Trees,Differences and practical tips,26-10-2021,Naomi Nguyen,"Outline:
+
+Gradient boosted trees overview
+Innovations from each of 3 popular libraries: XGBoost, LightGBM, CatBoost
+Comparison across big/small, balanced/imbalanced datasets
+Practical tuning tips"
+1.90641E+11,PODCAST,Becoming a Solopreneur in Data,"Teaching, writing and consulting - Noah Gift",22-10-2021,Noah Gift,"Outline:
+
+Solopreneur vs Entrepeneur
+Teaching, writing, and consulting
+Time management"
+1.87506E+11,PODCAST,Building Business Acumen for Data Professionals,What business acumen is and how to develop it -,15-10-2021,Thom Ives,"Outline:
+
+What is business acumen?
+Important business skills for data professionals
+Acquiring and developing business acumen"
+1.72443E+11,WEBINAR,PyTorch Contributor's Guide: How and Why?,Getting started with open-source and improving PyTorch,12-10-2021,Emil Bogomolov,"Outline:
+
+Open source: why participate in it
+Taking part in open source and improving PyTorch
+The PyTorch project, which modules it consists of
+How the issues are created there and solved in the project
+Choosing tasks in the project and creating pull requests
+"
+1.82068E+11,PODCAST,Conquering the Last Mile in Data,Ensuring data drives decision-making,08-10-2021,Caitlin Moorman,"Outline:
+
+Ensuring that your insights can drive decision-making
+What happens after all the technical work is done
+Why we fail to use data and how to avoid that"
+1.70187E+11,PODCAST,Similarities and Differences between ML and Analytics,"Similarities and differences in skills, tools, and use cases",06-10-2021,Rishabh Bhargava,"Outline:
+
+Predictive and prescriptive analytics
+Similarities and differences in skills, tools, and use cases"
+1.72438E+11,WEBINAR,Building an Open-Source Feature Store with Apache Flink,"Featury, an open-source feature management framework",05-10-2021,Roman Grebennikov,"Moving a new ML model from playground to production frequently requires rewriting it in a way mostly focused on latency and stability, which may result in two versions of the same code used for offline model training and online serving.
+
+But what should you do if you caught yourself in this offline/online dichotomy?
+
+In this talk, we discuss a “Feature Store” approach to these problems and also introduce a Flink-based “Featury”, an open-source feature management framework, which allows you to:
+
+bootstrap feature values from historical data, do a time travel over different versions of it on a training phase,
+use high-level feature types like counters, maps, lists, and statistical estimators,
+use the same feature building code both in online inference jobs, and offline training.
+We'll also discuss how we built a real-time search personalization system using this framework."
+1.76669E+11,PODCAST,Building and Leading Data Teams,Building a team to make best decisions with data,01-10-2021,Tammy Liang,"Outline:
+
+Building data teams
+Providing accurate, timely, and useful insights
+Making best decisions with data"
+1.69887E+11,WEBINAR,Introduction to Transformers for NLP,From attention to BERT,28-09-2021,Olga Petrova,"Have you wondered what is the technology behind the GPT models? In this talk, we are going to discuss the Transformer neural networks, introduced in 2017. Some experience with NLP and deep learning is advised. We will start by overviewing some of the key concepts and milestones in the applications of deep learning to Natural Language Processing: word embeddings, RNNs, sequence-to-sequence models, and the task of language modeling. In the second half of the talk, we will focus on the Attention mechanism, building up to the Transformer architecture and Transformer-based contextualized word embeddings such as BERT."
+1.70743E+11,PODCAST,What Researchers and Engineers Can Learn from Each Other,Building an ML culture of engineering rigor and experimentation,24-09-2021,Mihail Eric,"Outline:
+
+What do ML researchers do and what do ML engineers do
+What can they learn from each other
+Helping ML researchers and engineers work well together"
+1.69217E+11,WEBINAR,Doing Good with Data,Helping farmers and keeping your fish happy,21-09-2021,Marijn Markus,"Outline:
+
+How a social scientist got lost in the field of data
+How to help smallholder farmers using AI and satellite imagery
+How to use data to keep your plants, fish and employees happy
+How to get business to stop talking buzz and start talking sense (data)"
+1.67827E+11,WEBINAR,Modern Data Stack for Analytics Engineering,"Tools for data transformation, extraction, loading, orchestrating, and observability",14-09-2021,Kyle Shannon,"Outline:
+
+Extraction & Ingestion
+Transformation
+Orchestration & Loading
+Operate & Observe"
+1.68648E+11,PODCAST,Introducing Data Science in Startups,Why and how,10-09-2021,Marianna Diachuk,"Outline:
+
+Understand if you need data science for your solution
+Communicating with people unfamiliar with data science
+What to start from if you are a ""lone wolf"" data scientist in your company
+Measuring the results of the first projects in an interpretable way"
+1.6645E+11,WEBINAR,Machine Learning Observability,A Critical Piece in Making Models Work in the Real World,07-09-2021,Aparna Dhinakaran,"Outline:
+
+Challenges with Productionalizing ML
+ML Observability: An Overview
+4 Pillars for ML Observability: Drift Analysis, Performance Analysis, Data Quality Checks, Explainability"
+1.6645E+11,PODCAST,Defining Success: Metrics and KPIs,What does good look like and how to measure it,03-09-2021,Adam Sroka,"Outline:
+
+Challenges with Productionalizing ML
+ML Observability: An Overview
+4 Pillars for ML Observability: Drift Analysis, Performance Analysis, Data Quality Checks, Explainability"
+1.63149E+11,WEBINAR,Getting Started with Network Analytics in Python,Build your own network and learn from it,31-08-2021,Eric Sims,"Why would you care to use a network? (5 min)
+
+When networks are better than tabular data
+Interesting examples of things like fraud detection, influencers, and bot networks
+How can we actually go about making a network? (10 min)
+
+Explain the difference between nodes and edges
+Live demo: two ways to make node and edge lists in Python
+Make a simple network using a dataframe
+Import an existing network file using JSON
+What can you learn from a network? (35-40 min)
+
+Introduce core concepts with live demos in Python and Gephi:
+Degree, weighted degree (political donation network)
+Different types of centrality (Star Wars network)
+Shortest path (6 degrees of Kevin Bacon)"
+1.62856E+11,PODCAST,Making Sense of Data Engineering Acronyms and Buzzwords,"ETL, ELT, Reverse ETL, and other things",27-08-2021,Natalie Kwong,"Outline:
+
+ETL, ELT and reverse ETL
+Data warehouse vs data lake
+Modern data stack for analytics"
+1.631E+11,WEBINAR,Make Your First ML Chatbot,Creating a chat assistant with open-source tools,25-08-2021,Rachael Tatman,"In this talk, you'll learn how to start building a ML chatbot. We'll cover a very brief history of approaches to building chatbots, special considerations for machine learning approaches and create a simple assistant together."
+1.62854E+11,PODCAST,Mastering Algorithms and Data Structures,Learning basic and advanced algorithms,20-08-2021,Marcello La Rocca,"Outline:
+
+Getting started with algorithms
+Learning algorithms if I don’t need them at work
+Advanced algorithms and data structures"
+1.65234E+11,WEBINAR,Building Streaming Analytics: The Journey and Learnings,Data architectures for streaming analytics,17-08-2021,Maxim Lukichev,"Outline:
+
+The landscape and evolution of systems to support various data architectures
+Lambda and Kappa data architectures
+Building a streaming analytics engine
+Technology stacks: Big Query + DataFlow, Delta Lake or AWS Lambda + Spark"
+1.59032E+11,PODCAST,Chief Data Officer,The skills and responsibilities of a CDO,16-08-2021,Marco De Sa,"Outline:
+
+The skills and responsibilities of a CDO
+CDO vs VP of Data
+Becoming a CDO
+"
+1.6346E+11,PODCAST,Freelancing in Machine Learning,Be your own oss,13-08-2021,Mikio Braun,"Outline:
+
+Being a freelancer and picking a niche
+The importance of your professional network
+Getting started with freelancing"
+1.61856E+11,WEBINAR,Orchestrating Enterprise ML Workload Jobs Across Clouds,MLOps in Enterprise,10-08-2021,"Srivathsan Canchi, Alex Chung","Outline:
+
+Profile of large enterprises
+Team dynamics and roles in the team
+Platform tooling"
+1.61784E+11,PODCAST,Launching a Startup: From Idea to First Hire,Reducing waste with machine learning,06-08-2021,Carmine Paolino,"Outline:
+
+Coming up with an idea
+Getting investors and first clients
+Hiring first engineers
+"
+1.61822E+11,WEBINAR,Unboxing Design Docs for Data Scientists,Making data science projects successful ,03-08-2021,Vincent Tatan,"Outline:
+
+Why making design documents is important
+How to build them
+Live demo - writing a design document from scratch"
+1.57544E+11,WEBINAR,Modeling the Human Brain,The Integration of Cognitive Neuroscience with Data and Network Sciences,29-06-2021,Jessie Yaros,"Outline:
+
+Current methods used to model activity and structure in the human brain
+How Network Neuroscience and Data Science methods are being applied to neuroscientific data to understand the human brain in health and disease
+Topics may include:
+
+Network Neuroscientific modeling of how brain regions communicate with one another, and how diseases are characterized by disruptions to network communications
+Machine Learning applications for early disease predictions using pathology, neuropsychological, and MRI data
+"
+1.58166E+11,WEBINAR,The Importance of Data Quality,"Summer Marathon. ML in Production, Day 5",25-06-2021,Fabiana Clemente,"Outline:
+
+From model-centric to data-centric
+The most common mistakes and assumptions in data preparation
+Big data towards smarter data
+This is Day #5 for the ""ML in Production"" track of our summer marathon conference. More information here: https://datatalks.club/conferences/2021-summer-marathon.html
+
+"
+1.57404E+11,WEBINAR,Why Your Search Relevance Project Will Fail,"Summer Marathon. ML in Production, Day 4 ",24-06-2021,Doug Turnbull,"We should just feed our user’s clicks into an ML model, teaching it to rank what’s clicked more... Right? Well not so fast! Transforming search clickstream data into usable training data can be a daunting task. Without careful, systematic study, we can easily create a negative feedback loop where clicks strengthen the existing poor search experience.
+
+I’ve led and participated in dozens of search relevance projects. Poor training data is the #1 reason relevance and machine learning projects fail.
+
+In this talk, I’ll cover the core biases in search clickstream data and what to do about it. You’ll see how to systematically overcome biases due to low traffic and how you display results. With a good foundation in place, then the sky is the limit for how much you can grow, tune, or machine-learn relevance: having an impact beyond the test/training split!
+
+This is Day #4 for the ""ML in Production"" track of our summer marathon conference. More information here: https://datatalks.club/conferences/2021-summer-marathon.html
+
+"
+1.57378E+11,PODCAST,Humans in the Loop,"Summer Marathon. ML in Production, Day 3",23-06-2021,Lina Weichbrodt,"Navigating users, stakeholders and your own biases in MLOps
+
+This is Day #3 for the ""ML in Production"" track of our summer marathon conference. More information here: https://datatalks.club/conferences/2021-summer-marathon.html"
+1.57378E+11,PODCAST,Running from Complexity,"Summer Marathon. ML in Production, Day 2",22-06-2021,Ben Wilson ,"Simplicity is the key to keeping your models running in production
+
+Why our projects don’t make it to production
+Dangers of siloed projects
+Implementing novel algorithms for solving our problems - pros and cons
+Is it a good idea to be an early technology adopter?
+This is Day #2 for the ""ML in Production"" track of our summer marathon conference. More information here: https://datatalks.club/conferences/2021-summer-marathon.html
+
+"
+1.57373E+11,WEBINAR,Setting Up AI Projects for Success,Jan Zawadzki,21-06-2021,Jan Zawadzki,"
+This is Day #1 for the ""ML in Production"" track of our summer marathon conference. More information here: https://datatalks.club/conferences/2021-summer-marathon.html
+
+"
+1.53178E+11,CONFERENCE,DataTalks.Club Summer Marathon: Machine Learning in Production,"5 days, 5 topics, 5 awesome speakers. Monday 21 June 2021",21-06-2021,"Jan Zawadzki, Ben Wilson, Lina Weichbrodt, Doug Turnbull, Fabiana Clemente",More info coming soon!
+1.56461E+11,PODCAST,I Want to Build a Machine Learning Startup!,"Summer Marathon. Career in Data, Day 5",18-06-2021,Elena Samuylova,"Outline:
+
+Things to consider when building a startup
+Getting ideas
+Open source vs closed source
+This is Day #5 for the ""Career in Data"" track of our summer marathon conference. More information here: https://datatalks.club/conferences/2021-summer-marathon.html"
+1.56384E+11,PODCAST,Big Data Engineer vs Data Scientist,"Summer Marathon. Career in Data, Day 4 ",17-06-2021,Roksolana Diachuk,"Outline:
+
+Skills big data engineers and data scientists have
+Tools that they use
+How big data engineers and data scientists can work together
+Walkthrough of a project from idea to production
+This is Day #4 for the ""Career in Data"" track of our summer marathon conference. More information here: https://datatalks.club/conferences/2021-summer-marathon.html"
+1.56384E+11,PODCAST,Build Your Own Data Pipeline,"Summer Marathon. Career in Data, Day 3 ",16-06-2021,Andreas Kretz,"Become a better data scientist by learning data engineering
+
+Learning to build data pipelines for data scientist
+Which tools and technologies I need to learn
+Stream vs batch
+This is Day #3 for the ""Career in Data"" track of our summer marathon conference. More information here: https://datatalks.club/conferences/2021-summer-marathon.html"
+1.5636E+11,PODCAST,From Software Engineering to Machine Learning,"Summer Marathon. Career in Data, day 1",14-06-2021,Santiago Valdarrama,"You’re more qualified than you think!
+
+Outline:
+
+Why software engineers are already qualified to do machine learning
+Core tools and frameworks
+Learning plan for the transition
+This is day #1 for the ""Career in Data"" track of our summer marathon conference. More information here: https://datatalks.club/conferences/2021-summer-marathon.html"
+1.53178E+11,WORKSHOP,DataTalks.Club Summer Marathon: Career in Data,"5 days, 5 topics, 5 awesome speakers. Monday 14 June 2021",14-06-2021,"Santiago Valdarrama, Daliana Liu, Andreas Kretz, Roksolana Diachuk, Elena Samuylova","This is what we planned:
+
+Transitioning from Software Engineering to Machine Learning by Santiago Valdarrama (Monday)
+How to Nail Your Data Science Interviews by Daliana Liu (Tuesday)
+Build Your Own Data Pipeline by Andreas Kretz (Wednesday)
+Difference between Big Data Engineer Job and Data Science Job by Roksolana Diachuk (Thursday)
+I Want to Build a Machine Learning Startup! by Elena Samuylova (Friday)
+More info coming soon!
+
+"
+1.53419E+11,PODCAST,Analytics Engineer: New Role in a Data Team,"The new role: responsibilities, skills, and tools",11-06-2021,Victoria Perez Mola,"Outline:
+
+How a typical day of an analytics engineer looks like
+Tools and responsibilities
+Becoming an analytics engineer"
+1.54741E+11,WEBINAR,Ingestion and Historization in the Data Lake,Tracking historical changes with modern AWS tools,08-06-2021,Illia Todor,"We'll talk about:
+
+Using modern AWS tools for historization
+Monitoring the failures
+Automating and autoscaling process
+Storing the data in an effective way
+Making it easy to access the data with different tools
+"
+1.52299E+11,PODCAST,Data Governance,Making better data-driven decisions,04-06-2021,"Jessi Ashdown, Uri Gilad","Outline:
+
+Implementing data governance
+Decision-making strategies
+Incorporating data governance into the design of your applications
+Tools for data governance"
+1.54128E+11,WEBINAR,Conversational AI,Building a chatbot with open-source tools,01-06-2021,Merve Noyan,"Outline:
+
+Levels of conversational agents
+Entity Recognition & Intent Classification
+Dialogue Management
+Generative Language Models
+"
+1.53474E+11,PODCAST,What Data Scientists Don’t Mention in Their LinkedIn Profiles,Failures in data science projects we prefer to hide ,28-05-2021,Yury Kashnitsky,"We’ll talk about 7 stories from Yury’s career.
+
+And answer the following questions:
+
+Why it’s a good idea to learn more about infrastructure?
+Is doing pure research on SOTA useful for your career?
+How too much freedom can impact motivation?
+And many more!"
+1.51343E+11,WEBINAR,Productionizing ML Systems without Fear nor Heroism,"Versioning data and models, testing data, and monitoring drift",25-05-2021,Nastasia Saby,"It’s time for machine learning systems to become real.
+
+For that, we need stability in development, production, and maintenance. The distinctive characteristic of machine learning is that data and models are at least as important as the code. This is why we can take the best practices for code from software engineering and apply them to our data and models: versioning, monitoring, and tests.
+
+Main topics
+
+Versioning data manually with the concept of event sourcing or with a tool such as Delta Lake (quick demo)
+Versioning models with a tool such as MLFlow (quick demo)
+Test data manually or with a library such as GreatExpectations (quick demo)
+Monitoring model drift and data drift"
+1.5221E+11,PODCAST,Becoming a Data-led Professional,Skills and tools to build personalized customer experience led by data,21-05-2021,Arpit Choudhury,"A data-led professional understands where data comes from and what it looks like, is comfortable working with data and asking questions of it, and also has the skills to build customer experiences led by data.
+
+Outline:
+
+Data-led vs Data-driven vs Product-led
+Data flow stages — how does data go from a user click to a dashboard and beyond (collection -> warehousing -> analysis -> activation)
+Data collection and event tracking
+Making data actionable"
+1.51342E+11,WEBINAR,A Framework for Feature Engineering and Machine Learning Pipelines,Best practices on structuring ML projects,18-05-2021,Jacques Peeters,"Some best practices on how to structure feature engineering and machine learning pipelines
+
+The goal of the talk is to give some tips on how to avoid the following pitfalls:
+
+Spaghetti code
+Long debugging
+Asymmetries between training and inference
+You will learn how to:
+
+Enhance code maintainability
+Improve iteration speed
+Make the transition to production easier"
+1.51919E+11,PODCAST,How to Market Yourself (without Being a Celebrity),Promote yourself in public and at work,14-05-2021,Shawn Swyx Wang ,"Outline:
+
+Why marketing ourselves is important for a career?
+How can I market myself when I’m average?
+Marketing channels for promoting ourselves in public
+Marketing ourselves at work
+Our conversation will mostly be based on an article that Shawn wrote - https://www.swyx.io/marketing-yourself/"
+1.47192E+11,WEBINAR,Hands-on AI Observability,"Examples with Spark, Pandas, Scikit-Learn",11-05-2021,Andy Petrella  ,"In this talk, Andy Petrella will do 50% live coding (scala, python) and 50% highlights on best practices to help data teams keep calm and let AI go to production.
+
+We’ll take the opportunity to introduce concepts like datastrophes, data as a product, and federated governance.
+
+In the end, you’ll have a grasp of the relationship between monitoring data and AI, data mesh, and advanced data discovery.
+
+"
+1.50331E+11,PODCAST,From Physics to Machine Learning,Career hacks: how I changed profession on maternity leave,07-05-2021,Tatiana Gabruseva,"Outline:
+
+Moving from academia to doing machine learning in healthcare
+12 most useful career hacks
+Kaggle — yes or no
+Shifting career: resources to learn machine learning
+Acing job interviews: how to prepare for interviews"
+1.46497E+11,WEBINAR,Setting up an A/B Testing Framework,From page traffic to conclusions,04-05-2021,Agnes van Belle,"In this talk, I'll outline how I and my colleagues build up an A/B-testing framework for an e-commerce company, with a focus on the statistical aspect.
+
+After this talk, you will have a good overview of some common steps - and their possible pitfalls.
+
+The talk will start with a brief introduction of main concepts.
+
+Then it dives with a bit more detail into the following topics:
+
+Deciding what to measure
+Data transformation: making your measurements testable
+Testing: the t-test versus alternatives
+When to stop the experiment, or: minimum sample size calculation
+"
+1.47885E+11,PODCAST,What I Learned After Interviewing 300 Data Scientists,Preparing for interviews to get the job you want,30-04-2021,Oleg Novikov,"We'll cover:
+
+The recruitment funnel
+Acing both technical and behavioral rounds
+Preparing for interviews to get the job you want
+How a horse’s ass determined the design of a space shuttle and what it has to do with your CV"
+1.42771E+11,WEBINAR,Reinforcement Learning for Search,Dealing with bias in search results,27-04-2021,Roman Grebennikov,"We'll talk about using reinforcement learning in ranking problems
+
+Outline:
+
+Types of bias that can influence Learn-to-Rank algorithms: position and presentation biases
+How to un-bias your training data with tricks like multi-armed-bandit feedback
+Ways to build the LTR model over original biased data with inverse propensity scoring
+How these approaches affect business metrics in e-commerce
+Challenges in building an online-LTR system"
+1.48509E+11,PODCAST,Effective Communication with Business for Data Professionals,Bridging the gap between business and data,23-04-2021,Lior Barak,"We'll cover:
+
+The number one mistake we do with data that leads to losing trust
+How can we improve the communication between the functions
+Talking with people who do not understand models or coding
+Finding the right balance between complexity and simplicity.
+Why forecasting models fail, and can we improve them?
+Why data specialists don’t like Hummus but Business people do"
+1.44735E+11,WEBINAR,Evaluation Store: a New Category of ML Engineering Tools,A new category of machine learning engineering tools,20-04-2021,Josh Tobin,"Machine learning is quickly becoming a product engineering discipline. Although several new categories of infrastructure and tools have emerged to help teams turn their models into production systems, doing so is still extremely challenging for most companies.
+
+In this talk, we survey the tooling landscape and point out several parts of the machine learning lifecycle that are still underserved.
+
+We propose a new category of tool that could help alleviate these challenges and connect the fragmented production ML tooling ecosystem. We conclude by discussing similarities and differences between our proposed system and those of a few top companies."
+1.42203E+11,PODCAST,Data Observability: The Next Frontier of Data Engineering,Best practices for applying data observability at scale,16-04-2021,Barr Moses,"From null values and duplicate rows, to modeling errors and schema changes, data pipelines can break for millions of reasons. In the same way that software developers tackle application downtime, data professionals deal with their own set of availability challenges -- In other words, data downtime, the periods of time when your data is partial, erroneous, missing, or otherwise inaccurate.
+
+The solution? Data observability, the next frontier of data engineering. In this podcast, Barr Moses, CEO and co-founder of Monte Carlo, will discuss how best-in-class data teams are applying an end-to-end approach to data observability to identify, resolve, and prevent broken pipelines, and in the process, restore trust in data.
+
+We'll cover:
+
+The rise of “data downtime”
+What is data observability and why do we need it?
+Best practices for applying data observability at scale
+How to set your own data reliability SLAs and SLOs"
+1.43797E+11,WEBINAR,Data Mesh in Practice,How to set up a data-driven organization,13-04-2021,Max Schultze,"The Data Mesh paradigm is a strong candidate to supersede the centralized data lake and data warehouse as the dominant architectural patterns in data and analytics. It promotes the concept of domain-focused Data Products which go beyond sharing of files and towards guarantees of quality and acknowledgement of data ownership.
+
+Through personal experience with applying the Data Mesh concept in practice, as well as dedicated field research, the presenter discovered the most common pain points at different stages of the journey and identified successful approaches to overcome those challenges. In this talk you will gain both technical and organizational insights ranging from companies that are just starting to promote a mindset shift of working with data, to companies that are already in the process of transforming their data infrastructure landscape, to advanced companies that are working on federated governance setups for a sustainable data driven future."
+1.46485E+11,PODCAST,Shifting Career from Analytics to Data Science,Learning plan and Kaggle as a way to showcase your skills,09-04-2021,Andrada Olteanu,"We'll cover:
+
+The learning plan for the transitioning
+Kaggle as a way to showcase your skills
+Getting over the struggles with programming
+How the background in analytics can help with the transition"
+1.44219E+11,WEBINAR,Data Science for Social Good,Getting involved with DSSG and detecting waste,30-03-2021,"Filipa Castro, Agnieszka Mikołajczyk","We have two talks about data science for social good:
+
+How to get involved in DSSG
+Detect waste with AI
+Talk #1: How to get involved in DSSG by Filipa Castro
+
+Outline:
+
+Starting a data for good initiative
+Helping social good organizations with data science
+Using open data for social good
+How can I help? Data for Social Good initiatives around the world
+Talk #2: Detect waste with AI by Agnieszka Mikołajczyk
+
+Did you know that we produce 300 million tons of plastic every year? And only the part of it is properly recycled.
+
+The idea of Plastic object detection project is to use Artificial Intelligence to detect plastic waste in the environment. Our solution is be applicable for video and photography. Our goal is to use AI for Good.
+
+The talk will briefly introduce the results of work of 9 women behind the 5-month educational project detectwaste.ml - “Waste detection in Pomerania”.
+
+The motivation,
+Selected categories of waste to detect (according to recycling rules in Gdańsk, Poland)
+List of datasets used
+Final model and detection pipeline
+The results"
+1.42424E+11,PODCAST,Transitioning from Project Management to Data Science,"Useful courses, the importance of coding, and data analytics as a stepping stone",26-03-2021,Ksenia Legostay,"We'll talk about transitioning from project management to data science
+
+We'll cover:
+
+Useful and not useful courses for transitioning to data science
+Importance of coding
+Data analytics as a stepping stone to data science
+Learning plan to becoming a data scientist in one year
+Ksenia will share her experience and tips on how to get into Data Science faster and shorter if you want to change your career path."
+1.44642E+11,WEBINAR,Deep Learning Recommender Systems,From Prototype to Production,23-03-2021,"Cristian Martinez, Ilia Ivanov  ","In this talk we will explain some of the main challenges that we faced at OLX Europe while trying to proof the value of a deep learning based recommender system, and to later productionize it with a high level of automation.
+
+We'll talk about:
+
+Modern Recommender Systems
+Deep Learning
+Neural Item Embeddings
+Similarity Search
+Proving value through Experimentation
+From POC to PRD
+Lessons Learned
+"
+1.41625E+11,PODCAST,Building and Growing Online Communities,The story nobody told you about MLOps.Community (and DataTalks.Club!),19-03-2021,Demetrios Brinkmann,"We'll talk about online communities
+
+We'll cover:
+
+Data and ML online communities
+The stories behind MLOps.community and DataTalks.Club
+Keeping the community engaged, organizing events
+Tools and resources for community builders"
+1.42433E+11,WEBINAR,Bodywork: GitOps for Machine Learning,Continuously deploying machine learning projects on Kubernetes,16-03-2021,Alex Ioannides,"Outline
+
+Why should a machine learning engineer care about CICD?
+What makes deploying machine learning projects hard?
+What is Bodywork, what is GitOps all about and how do they help?
+Example use-cases"
+1.41654E+11,PODCAST,DataOps 101,What is DataOps and the benefits it can bring,12-03-2021,Lars Albertsson,"We'll talk about DataOps
+
+We'll cover:
+
+What is DataOps?
+Difference between DataOps, DevOps and MLOps
+Data platform — what is it, why do we need it?
+Tools and skills needed for DataOps"
+1.40468E+11,WEBINAR,Active and Self-Supervised Learning for Data Selection,Smart data labeling,09-03-2021,Igor Susmelj,"Outline
+
+Overview of recent methods in self-supervised learning with images and how to use them
+What can we do with the learned representations?
+Learn what is active-learning in the context of data selection
+Learn how we can combine the two approaches to improve the selection process"
+1.41302E+11,PODCAST,The Essentials of Public Speaking for Career in Data Science,Why public speaking is important and the benefits of speaking for your career,05-03-2021,Ben Taylor,"We'll talk about public speaking
+
+We'll cover:
+
+Why speak in public
+Benefits for career in tech
+Structuring a talk
+Writing a good talk proposal"
+1.3878E+11,WEBINAR,Building Scalable End-to-End Deep Learning Pipelines in the Cloud,Using services from AWS for organizing deep learning workflows,02-03-2021,Rustem Feyzkhanov,"One of the main issues with ML and DL deployment is finding the right way to train and operationalize the model within the company. Serverless approach for deep learning provides simple, scalable, affordable yet reliable architecture. The challenge of this approach is to keep in mind certain limitations in CPU, GPU and RAM, and organize training and inference of your model.
+
+My presentation will show how to utilize services like Amazon SageMaker, AWS Batch, AWS Fargate, AWS Lambda and AWS Step Functions to organize deep learning workflows.
+
+"
+0,NO_DATA,Continuous Integration for Machine Learning,,,,
+0,NO_DATA,Machine Learning Design Patterns,,,,
+0,NO_DATA,Putting Data Science in Production,,,,
+0,NO_DATA,10 Foundational Practices of Machine Learning Engineering,,,,
+1.31782E+11,CONFERENCE,DataTalks.Club Conference: ML in Production,"MLOps, Putting data science in production, CI for data science",26-02-2021,"Larysa Visengeriyeva, Mikio Braun, Sara Robinson, Elle O'Brien  ","4 hours of Machine Learning in production!
+
+10 Foundational Practices of Machine Learning Engineering, Dr. Larysa Visengeriyeva
+Putting Data Science in Production, Dr. Mikio L. Braun
+Continuous Integration for Data Science, Elle O'Brien, Ph.D.
+4th talk - to be announced
+"
+0,NO_DATA,New Roles and Key Skills to Monetize Machine Learning,,,,
+0,NO_DATA,Career Transitioning into Data Science,,,,
+0,NO_DATA,Personal Branding,,,,
+0,NO_DATA,The ABC’s of Data Science,,,,
+0,NO_DATA,DataTalks.Club Conference: Career in Data,,,,
+0,NO_DATA,Translating ML Predictions Into Better Real-World Results with Decision Optimization,,,,
+0,NO_DATA,How Your Machine Learning Project Will Fail,,,,
+0,NO_DATA,Dangers of Dirty Data,,,,
+0,NO_DATA,Building Data-Intensive Teams,,,,
+0,NO_DATA,DataTalks.Club Conference: Product and Process,,,,
+0,NO_DATA,Building an ML System for Southeast Asia’s Largest Hospital Group,,,,
+0,NO_DATA,Build Your AI Machine Vision System,,,,
+0,NO_DATA,How to use AI in Consumer Food Product Innovation,,,,
+0,NO_DATA,Industrial Applications of Reinforcement Learning,,,,
+1.32704E+11,CONFERENCE,DataTalks.Club Conference: ML Use Cases,"Reinforcement learning, ML in healthcare, and other cases!",05-02-2021,"Phil Winder, Himanshu Upreti, Mahmoud AbdelAziz, Eugene Yan","Four talks about applied machine learning in different domains:
+
+Industrial Applications of Reinforcement Learning, Phil Winder
+How to use AI in Consumer Food Product Innovation, Himanshu Upreti
+ML in manifacturing, Mahmoud AbdelAziz
+Applying ML to Healthcare, Eugene Yan"
+1.37694E+11,PODCAST,Feature Stores: Cutting through the Hype,The hype around feature stores and why they are still the best answer to data challenges,02-02-2021,Willem Pienaar,"We'll talk about feature stores and the hype around them
+
+We'll discuss:
+
+Real problems that teams face with data for machine learning today (both technical and organizational)
+Some existing solutions to these problems that don't involve feature stores
+The hype around feature stores, whether its warranted, and the identity crisis that feature stores have
+Why feature stores are still the best answer to solving some of these data challenges
+And other things! This will be a live discussion, so come with your questions!"
+1.37693E+11,PODCAST,The Rise of MLOps,What is MLOps and how to get into it,29-01-2021,Theofilos Papapanagiotou ,"We'll talk about MLOps
+
+We'll cover:
+
+What is MLOps
+The difference between MLOps and ML Engineering
+Getting into MLOps
+ML Platforms
+And other things! This will be a live discussion, so come with your questions!"
+1.37652E+11,PODCAST,Getting Started with Open Source,Starting an open-source project and contributing to open source,28-01-2021,Vincent Warmerdam,"We'll talk about getting started with open source
+
+We'll cover:
+
+The benefits of open source
+Starting an open source project
+Contributing to open source
+And other things! This will be a live discussion, so come with your questions!
+
+"
+1.34716E+11,WEBINAR,Machine Learning for Customer Service,The end-to-end process of rolling out a customer service bot,26-01-2021,Neal Lathia,"In this talk, I'll give an overview of the development, iteration, and usage of machine learning in Monzo's customer service - starting with the design, build, and deployment of a bot (last year) and ending with an overview of other areas where we have been experimenting."
+1.34716E+11,PODCAST,Developer Advocacy for Data Science,"Who is a developer advocate, what do they do, and how to become one ",22-01-2021,Elle O'Brien,"We'll talk about developer advocacy for data science.
+
+We'll cover:
+
+The role of a developer advocate
+The skills needed for the job and the responsibilities
+How to become a developer advocate
+And other things! This will be a live discussion, so come with your questions!"
+1.33155E+11,WEBINAR,Machine Learning Performance Monitoring,How to monitor and analyse machine learning model performance in production?,19-01-2021,Emeli Dral,"Data scientist’s work does not stop when your model goes live. Now that it brings real business value, you need to keep a close eye on its performance. You need to detect when things go wrong and prepare to quickly solve them.
+
+In this talk, Emeli will:
+
+Explain the types of issues you might face in production
+Show a demo of an open-source tool to analyse data drift
+Give tips on how to be pragmatic with your model monitoring"
+1.34207E+11,PODCAST,The Importance of Writing in a Tech Career,"Why write online, what to write about and how to do it",15-01-2021,Eugene Yan,"We'll talk about blogging technical writing. We'll cover:
+
+Why should we write online?
+What should we write about?
+Writing at work: Design documents, wikis, etc.
+The writing process (also at work)
+And other things! This will be a live discussion, so come with your questions!
+
+"
+1.35872E+11,WEBINAR,Data Versioning Explained,Open source tools for data versioning and management,12-01-2021,tai Admi,"Data versioning and management are core components of modern data architecture. There are a plethora of open source tools that materialized for managing data using the best practices we learned from managing code.
+
+In this talk, Itai will:
+
+Share challenges related to data versioning and how to overcome them
+Explain how these solutions compare in terms of key features and how to choose the right data versioning tool for your use case.
+Demonstrate an open source tool that can be used to version data lakes."
+1.31724E+11,PODCAST,Mentoring,Finding a mentor and becoming a mentor,18-12-2020,Rahul Jain,"We'll talk about mentoring. We'll cover:
+
+The role of mentoring in career
+Looking for mentors and praparing for mentoring sessions as a mentee
+Becoming a mentor
+And other things! This will be a live discussion, so come with your questions!"
+1.30916E+11,WEBINAR,AWS Glue DataBrew,We'll learn about a new tool from AWS: AWS Glue DataBrew,15-12-2020,Dmitry Muzalevskiy,"Let's discuss and get familiar with AWS Glue DataBrew: a new visual data preparation tool that makes it easy for data analysts and data scientists to clean and preprocess data to make it ready for analytics and machine learning
+
+Will talk about:
+
+Interface
+Use-cases
+How to's
+And will walk through a small demonstration of AWS Glue DataBrew features and capabilities"
+1.31261E+11,PODCAST,Standing out as a Data Scientist,How to stand out during the recruitment process?,11-12-2020,Luke Whipps,"We'll talk about the rectruitement process and discuss how a data scientist can stand out from the rest of the candidates.
+
+We'll cover:
+
+Getting the recruiter's attention
+Making CV look great
+The main problems that candidates have
+And other things! This will be a live discussion, so come with your questions!"
+1.30823E+11,WEBINAR,Deploying Serverless Machine Learning with AWS,Using the serverless framework for deploying machine learning models to AWS Lambda,08-12-2020,Sejal Vaidya,"In this workshop, we'll cover:
+
+Training a model locally inside a Docker container
+Serving the model with Serverless API and Docker
+CI/CD workflow with GitHub actions"
+1.30733E+11,PODCAST,Building a Data Science Team,Building a data team - from scratch. How to approach it?,04-12-2020,Dat Tran,"We'll talk about the processes of building up a data science team from scratch.
+
+We'll cover:
+
+How to select the first project
+When building up a team, who to hire first
+How to hire the first data scientist
+And other things! This will be a live discussion, so come with your questions!"
+1.29939E+11,PODCAST,Processes in a Data Science Project,Typical steps in a data science project: from formulating the problem to deploying the solution to production,03-12-2020,Alexey Grigorev,"We'll talk about the processes in data science projects and cover the typical steps.
+
+We'll cover:
+
+CRISP-DM - a methodology for organizing data science projects
+Different steps in a project from start to finish
+Going from a prototype to production
+And other things! This will be a live discussion, so come with your questions!
+
+"
+1.2851E+11,WEBINAR,Essential Communication Skills for Data Professionals,Essential Communication Skills for Data Professionals,01-12-2020,David Gates,"We'll cover the essential communication skills for data professionals. In this talk we will discuss:
+
+How using the right language makes it easier to connect with non-technical individuals.
+How a great example allows you to explain challenging concepts.
+How to create a data-driven story using a conflict, characters, and a conclusion."
+1.27746E+11,WEBINAR,Fighting Fraud with Triplet Loss,"Detecting modified images using Siamese networks with triplet loss
+
+",24-11-2020,Artemii Frolov,"We'll learn how to detect modified images using Siamese networks with triplet loss
+
+We'll talk about:
+
+How fraudsters modify images
+Embeddings, which help find distances so we can distinguish images from each other faster
+Siamese Network with Triplet Loss explained in simple language
+Tricks and Hacks — so we can train network better"
+1.28689E+11,PODCAST,Roles in a Data Team,"Different roles and responsibilities in a data team: data analysts, data engineers, data scientists, ML engineers, and others",20-11-2020,Alexey Grigorev,"We'll talk about different roles in a data team: data scientists, data and ML engineers, analysts, and others
+
+We'll answer these and other questions:
+
+What is ML engineering? How is it different from data science or data engineer?
+How much each role requires software engineering skills and what kind of skills
+How can data engineer better support data science projects
+This will be a live discussion, so come with your questions!"
+1.2809E+11,WEBINAR,Customer Segmentation 2.0,Customer segmentation analysis for a personalized marketing campaign,17-11-2020,Nishant Mohan,"We will understand the steps involved in customer segmentation analysis for a personalized marketing campaign, going further than the regular RFM analysis.
+
+Specifically, we will cover:
+
+What is an RFM analysis?
+How can we make the most of available data?
+How to approach a customer segmentation problem?
+Which kind of features to analyze?
+When to use unsupervised learning for segmentation?
+How to analyze results and provide recommendations?
+"
+1.27017E+11,WEBINAR,Deploying models with AWS Sagemaker,We'll learn how to deploy ML models with AWS SageMaker,10-11-2020,Dmitry Muzalevskiy,"We will get deeper into the topiс of deploying dockerized ML models and use Amazon SageMaker for that.
+
+We'll talk about:
+
+The structure of an ML service based on Flask, gunicorn and nginx
+Constructing a Docker image
+Deploying it with Sagemaker
+Setting up a REST API in AWS
+Connecting to SageMaker model using AWS Lambda
+"
